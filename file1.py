@@ -8,3 +8,6 @@ ammend comment
 ammend comment 2
 
 using ammend    
+
+
+checkout master v1.6
